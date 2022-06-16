@@ -1,2 +1,2 @@
 # .github
-MikArt Europe
+The readme.md is inside ./profile
